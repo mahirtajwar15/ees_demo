@@ -1,7 +1,7 @@
 # ees_demo
 
-Demo for eesworkshop
+Demo for eesworkshop. Now I'm making changes.
 
-Hey this is my awesome repository! Check out Vanderbilt's website:
+Hey this is my awesome repository! Check out Google's website:
 
-[Vanderbilt Website] (http://www.vanderbilt.edu)
+[Google's Website] (http://www.google.edu)
